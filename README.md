@@ -38,13 +38,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThomasVrd11/ThomasVrd11/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
@@ -52,11 +46,16 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasVrd11&count_private=true&show_icons=true&theme=aura_dark">
+  p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasVrd11&show_icons=true&locale=en&layout=compact" alt="ThomasVrd11" /></p>
   <br>
   <img src="https://streak-stats.demolab.com?user=ThomasVrd11&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j">
 </div>
-<br/><br/>
 
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThomasVrd11" alt="ThomasVrd11" /></a> </p>
 <hr/>
 
 <br/>
