@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Quest, my own langauge**
+ 🔭 I’m currently working on **CSharp-F1_Manager**
  
  🌱 I’m currently learning **C#, C++, HTML and CSS**
 
 💬 Ask me about **C, Python, Unity, my personal projects... or anything [here](https://github.com/ThomasVrd11)**
 
-⚡ Fun fact **Ferrari might never win Formula 1 ever again D:**
+⚡ **Forza ragazzi**
 
  </div>
  
