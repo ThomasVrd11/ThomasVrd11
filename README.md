@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ThomasVrd11.ThomasVrd11" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thomas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thomas!;I+Wanna+Die!;" />
 </h1>
 
 <h3 align="center">A passionate developer student from France!</h3>
@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **CSharp-F1_Manager**
+ 🔭 I’m currently working on **CSharp-F1_Manager** and **3D-Sandbox** on Unity
  
  🌱 I’m currently learning **C#, C++, HTML and CSS**
 
-💬 Ask me about **C, Python, Unity, my personal projects... or anything [here](https://github.com/ThomasVrd11)**
+💬 Ask me about **C, Python, Unity, C# (my baby <3), my personal projects... or anything [here](https://github.com/ThomasVrd11)**
 
-⚡ **Forza ragazzi**
+⚡ **Forza CL**
 
  </div>
  
