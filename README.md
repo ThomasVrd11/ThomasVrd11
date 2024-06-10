@@ -10,14 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **CSharp-F1_Manager** and **3D-Sandbox** on Unity
+ 🔭 I’m currently working on **Chrauma** on Unity
  
- 🌱 I’m currently learning **C#, C++, HTML and CSS**
+ 🌱 I’m currently learning **C#, Unity**
 
 💬 Ask me about **C, Python, Unity, C# (my baby <3), my personal projects... or anything [here](https://github.com/ThomasVrd11)**
 
-⚡ **Forza CL**
-
+⚡ **Creator of Chrauma**
+**Would be worthless without TaillepierreN**
+**Nico je t'aime**
  </div>
  
 <div align="center"> 
