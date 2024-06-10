@@ -17,7 +17,9 @@
 💬 Ask me about **C, Python, Unity, C# (my baby <3), my personal projects... or anything [here](https://github.com/ThomasVrd11)**
 
 ⚡ **Creator of Chrauma**
+
 **Would be worthless without TaillepierreN**
+
 **Nico je t'aime**
  </div>
  
