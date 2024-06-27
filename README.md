@@ -49,7 +49,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasVrd11&count_private=true&show_icons=true&theme=aura_dark">
-  p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasVrd11&show_icons=true&locale=en&layout=compact" alt="ThomasVrd11" /></
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasVrd11&show_icons=true&locale=en&layout=compact" alt="ThomasVrd11" /></
   <br>
   <img src="https://streak-stats.demolab.com?user=ThomasVrd11&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j">
 </div>
