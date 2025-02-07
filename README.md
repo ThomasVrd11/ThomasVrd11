@@ -10,17 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Chrauma** on Unity
+ 🔭 I’m currently working on **Age Of Chrauma** on Unity
  
- 🌱 I’m currently learning **C#, Unity**
+ 🌱 I’m currently improving on **C#, Unity**
 
 💬 Ask me about **C, Python, Unity, C# (my baby <3), my personal projects... or anything [here](https://github.com/ThomasVrd11)**
 
 ⚡ **Creator of Chrauma**
-
-**Would be worthless without TaillepierreN**
-
-**Nico je t'aime**
  </div>
  
 <div align="center"> 
